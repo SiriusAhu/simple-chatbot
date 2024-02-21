@@ -8,6 +8,8 @@ This project is based on:
 - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
 - [RealtimeTTS](https://github.com/KoljaB/RealtimeTTS)
 
+> Note: The ChatGLM-6B model is about 12GB, take care of your disk space!!!
+
 ## Functions
 
 - Real-time voice recognition
