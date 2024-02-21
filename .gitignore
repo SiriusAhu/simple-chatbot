@@ -1,0 +1,8 @@
+/__pycache__
+/.cache
+/buffer
+/logs
+/camera.lock
+/recording.lock
+/temp.ipynb
+/temp.py

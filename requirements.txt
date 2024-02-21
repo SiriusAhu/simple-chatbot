@@ -1,0 +1,26 @@
+# This part is from repo `ChatGLM-6B`, but excluding the `torch` `torchvision` `torchaudio` package
+protobuf
+transformers==4.27.1
+cpm_kernels
+gradio
+mdtex2html
+sentencepiece
+accelerate
+
+# This part is for our repository
+absl-py
+protobuf==3.20
+wrapt
+opt_einsum
+gast
+astunparse
+termcolor
+
+# From repository: Real Time Whisper Transcription
+pyaudio
+SpeechRecognition
+numpy
+git+https://github.com/openai/whisper.git
+translatepy
+
+
