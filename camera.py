@@ -1,6 +1,6 @@
 import cv2
 import os
-from settings import *
+from config import *
 import argparse
 
 parser = argparse.ArgumentParser()
